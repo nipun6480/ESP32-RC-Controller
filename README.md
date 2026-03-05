@@ -1,18 +1,28 @@
-# ESP32 RC Car Controller
+# ESP32 RC Car Controller 🎮
 
 This project is the wireless controller for the ESP32-CAM RC Car.
 
-Features
-- Joystick control
-- Wireless communication
-- Low latency commands
-- Mobile compatible UI
+It sends movement commands to control the RC car.
 
-Hardware
+---
+
+## Features
+
+- 🎮 Joystick control
+- 📡 Wireless communication
+- ⚡ Low latency commands
+- 📱 Mobile compatible UI
+
+---
+
+## Hardware Used
+
 - ESP32
 - Joystick module
-- Buttons
-- Battery
+- Push buttons
+- Battery pack
 
-Author
-Nipun
+---
+
+## Project Structure
+
